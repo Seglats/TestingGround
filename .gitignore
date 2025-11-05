@@ -6,4 +6,4 @@ backup/
 *.h5
 *.tflite
 images.zip
-*-log
+*.log
