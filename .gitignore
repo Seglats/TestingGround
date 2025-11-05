@@ -1,0 +1,9 @@
+images/
+coco_dataset/
+backup/
+.venv2/
+.venv/
+*.h5
+*.tflite
+images.zip
+*-log
